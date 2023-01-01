@@ -3,3 +3,8 @@ body{
     background-color: blue;
     color:orange;
 }
+
+#campus_life img{
+    width: 400px;
+    height: 400px;
+}
